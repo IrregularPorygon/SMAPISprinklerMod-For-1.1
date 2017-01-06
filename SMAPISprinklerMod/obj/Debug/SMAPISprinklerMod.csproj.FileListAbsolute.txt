@@ -1,0 +1,5 @@
+C:\git\SV Modding\SMAPISprinklerMod-master\SMAPISprinklerMod\bin\Debug\manifest.json
+C:\git\SV Modding\SMAPISprinklerMod-master\SMAPISprinklerMod\bin\Debug\SMAPISprinklerMod.dll
+C:\git\SV Modding\SMAPISprinklerMod-master\SMAPISprinklerMod\bin\Debug\SMAPISprinklerMod.pdb
+C:\git\SV Modding\SMAPISprinklerMod-master\SMAPISprinklerMod\obj\Debug\SMAPISprinklerMod.dll
+C:\git\SV Modding\SMAPISprinklerMod-master\SMAPISprinklerMod\obj\Debug\SMAPISprinklerMod.pdb
